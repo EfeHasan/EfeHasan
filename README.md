@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Hasan Gultekin</h1>
 <h3 align="center">Hello, I am high school student. I am software developer.</h3>
 
-- 🔭 I’m currently working on [Lisan Ai]([https://github.com/EfeHasan/CustomList](https://github.com/EfeHasan/Lisan-Ai))
+- 🔭 I’m currently working on [Lisan Ai]([https://github.com/EfeHasan/Lisan-Ai])
 
 - 🌱 I’m currently learning **Java**
 
